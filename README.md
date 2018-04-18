@@ -35,3 +35,4 @@ Examples for Spark Training in aura.cn
   - yarn client模式：bin/spark-shell --master yarn --deploy-mode client
   - yarn cluster：bin/spark-shell --master yarn --deploy-mode cluster
 
+# AuraSparkTraining
